@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a random recipe generator](https://chefstatusrecipegenerator.netlify.app/)
 
-- 🌱 I’m currently learning **js, react and node**
+- 🌱 I’m currently learning **js, react, and node**
 
 - 👨‍💻 All of my projects are available at [https://justinmoymke.netlify.app/](https://justinmoymke.netlify.app/)
 
