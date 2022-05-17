@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A software engineer that builds websites and web applications.</h3>
+<h3 align="center">A software engineer @100Devs that builds websites and web applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/justymke" target="blank"><img src="https://img.shields.io/twitter/follow/justymke?logo=twitter&style=for-the-badge" alt="justymke" /></a> </p>
 
