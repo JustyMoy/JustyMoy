@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/justymke" target="blank"><img src="https://img.shields.io/twitter/follow/justymke?logo=twitter&style=for-the-badge" alt="justymke" /></a> </p>
 
-- 🔭 I’m currently working on [a random recipe generator](https://chefstatusrecipegenerator.netlify.app/)
+- 🔭 I’m currently working on [Healthy Cheat Meal Generator](https://healthycheatmealgenerator.netlify.app/)
 
 - 🌱 I’m currently learning **js, react, and node**
 
