@@ -51,16 +51,16 @@
     <td width="50%" valign="top">
       <h3 align="center">MKE Color Salon</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com"> 
+        <a target="_blank" href="https://mkecolor.netlify.app/#"> 
         </a>
  
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/JustyMoy/portfolioSalon" target="_blank">
     
    ![alt tag](https://user-images.githubusercontent.com/87396968/178848926-4a9d8dc1-6fd3-49c4-a713-e256f0be1228.png)
 
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://mkecolor.netlify.app/#" target="_blank">
     
   </a>
       </p>
