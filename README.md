@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Healthy Cheat Meal Generator](https://healthycheatmealgenerator.netlify.app/)
 
-- 🌱 I’m currently learning **js, react, and node**
+- 🌱 I’m currently learning **Javascript, react, and nodejs**
 
 - 👨‍💻 All of my projects are available at [https://justinmoymke.netlify.app/](https://justinmoymke.netlify.app/)
 
