@@ -40,7 +40,7 @@
   <a href="https://github.com/JustyMoy/portfolioSalon">
  
   </a>  
-  <a href="Milwaukee Color Salon" target="_blank">
+  <a href="https://mkecolor.netlify.app/#" target="_blank">
     <![SalonSite](https://user-images.githubusercontent.com/87396968/178846181-0bdfe885-8bac-4972-8a77-37d63119889c.png)/>
   </a>
 
