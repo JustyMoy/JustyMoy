@@ -60,9 +60,14 @@
    ![alt tag](https://user-images.githubusercontent.com/87396968/178848926-4a9d8dc1-6fd3-49c4-a713-e256f0be1228.png)
 
   </a>  
+  <p align="center">
   <a href="https://mkecolor.netlify.app/#" target="_blank">
-    
+    <a href="(https://mkecolor.netlify.app/#)" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>  
   </a>
+    <a href="(https://github.com/JustyMoy/portfolioSalon)" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
