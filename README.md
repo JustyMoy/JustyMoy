@@ -40,7 +40,7 @@
   <a href="https://github.com/JustyMoy/portfolioSalon">
  
   </a>  
-  <a href="Milwaukee Color Salon" target="_blank">
+  <a href="" target="_blank">
     <![SalonSite](https://user-images.githubusercontent.com/87396968/178846181-0bdfe885-8bac-4972-8a77-37d63119889c.png)/>
   </a>
 
@@ -51,18 +51,20 @@
     <td width="50%" valign="top">
       <h3 align="center">MKE Color Salon</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com"> 
+        <a target="_blank" href="https://mkecolor.netlify.app/#"> 
         </a>
  
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://mkecolor.netlify.app/#" target="_blank">
     
    ![alt tag](https://user-images.githubusercontent.com/87396968/178848926-4a9d8dc1-6fd3-49c4-a713-e256f0be1228.png)
 
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    
-  </a>
+              
+  <p align="center">
+  <a href="https://github.com/JustyMoy/portfolioSalon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
+  </a> 
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
@@ -120,5 +122,4 @@
   </tr>
 </table>
   
-
    
