@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/home/new-pnc-animated-banners/)](https://justinmoymke.netlify.app/)
+[![MasterHead]([https://www.digitaladlectio.com/home/new-pnc-animated-banners/](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif))](https://justinmoymke.netlify.app/)
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">A software engineer @100Devs that builds websites and web applications.</h3>
 
