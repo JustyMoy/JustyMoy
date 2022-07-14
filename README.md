@@ -59,65 +59,75 @@
     
    ![alt tag](https://user-images.githubusercontent.com/87396968/178848926-4a9d8dc1-6fd3-49c4-a713-e256f0be1228.png)
 
-  </a>  
-              
+  </a>         
   <p align="center">
   <a href="https://github.com/JustyMoy/portfolioSalon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Platform to help book cilents for a hair salon!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Random Recipe Generator"</h3>
+      <h3 align="center">Random Recipe Generator</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw"> 
+        <a target="_blank" href="https://chefstatusrecipegenerator.netlify.app/#"> 
         </a>
-
+ 
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-<img width="1425" alt="cookingAPI" src="https://user-images.githubusercontent.com/87396968/178849314-95d39df1-f7a5-4f0c-a166-6cf559575109.png">
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://chefstatusrecipegenerator.netlify.app/" target="_blank">
     
-  </a>
+![alt tag](https://user-images.githubusercontent.com/87396968/178861138-595ac0bc-a38f-4f2e-bde4-2c76278753ae.png)
+
+  </a>         
+  <p align="center">
+  <a href="https://github.com/JustyMoy/randomRecipeGenerator/tree/master" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
+  </a> 
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Recipe generator that will give you a random recipe to cook from over 100 different ones.</p>
     </td>
+    
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Healthy Cheat Meal Generator</h3>
-      <br />
-        <a target="_blank" href="https://shawncharles.com"> 
+      <h3 align="center">Healthy Cheat Meal Recipes</h3>
+        <br />
+        <a target="_blank" href="https://healthycheatmealgenerator.netlify.app/"> 
         </a>
-
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+ 
+          
+  <a href="https://healthycheatmealgenerator.netlify.app/" target="_blank"> 
     
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img width="1439" alt="cheatmeal" src="https://user-images.githubusercontent.com/87396968/178849631-534e6d2c-5350-465e-a170-1987df1cfee0.png">
-  </a>
+
+![alt tag](https://user-images.githubusercontent.com/87396968/178862441-f70c6b5e-8ae5-4484-94ee-1faeb4014370.png)
+
+  </a>         
+  <p align="center">
+  <a href="https://github.com/JustyMoy/HealthyCheatMealAPI" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
+  </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Bootstrap, Javascript, & Node.js</strong> - A high protein and low fat cheat meal alternative to help with dieting!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">JustinMoy.netlify</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://justinmoymke.netlify.app/"> 
         </a>
-
+ 
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-<img width="1428" alt="Screen Shot 2022-07-13 at 4 32 59 PM" src="https://user-images.githubusercontent.com/87396968/178849856-971eec17-895b-458f-98c8-e8f93ae86001.png">
+  <a href="https://justinmoymke.netlify.app/" target="_blank">
+    
+   ![alt tag](https://user-images.githubusercontent.com/87396968/178866034-41fdb9ec-6323-4f69-b937-8df0a81afca5.png)
 
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-
-  </a>
+  </a>         
+  <p align="center">
+  <a href="https://github.com/JustyMoy/PortfolioWebsite" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
+  </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
   </tr>
 </table>
