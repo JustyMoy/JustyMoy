@@ -109,7 +109,7 @@
 
 - 📫 How to reach me **JustinzMoy@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1crNAMpwuAf6t-WnyPE3bt3YUzFt5hk0Q/edit?usp=sharing&ouid=109086451017551742246&rtpof=true&sd=true](https://docs.google.com/document/d/1crNAMpwuAf6t-WnyPE3bt3YUzFt5hk0Q/edit?usp=sharing&ouid=109086451017551742246&rtpof=true&sd=true)
+- 📄 Know about my experiences https://docs.google.com/document/d/1crNAMpwuAf6t-WnyPE3bt3YUzFt5hk0Q/edit?usp=sharing&ouid=109086451017551742246&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Avocados are fruits!**
 
