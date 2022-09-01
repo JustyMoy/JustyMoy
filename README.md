@@ -64,7 +64,7 @@
         </a>
  
           
-  <a href="https://healthycheatmealgenerator.netlify.app/" target="_blank"> 
+  <a href="https://cheatmeal-app.herokuapp.com/" target="_blank"> 
     
 
 ![alt tag](https://user-images.githubusercontent.com/87396968/178862441-f70c6b5e-8ae5-4484-94ee-1faeb4014370.png)
