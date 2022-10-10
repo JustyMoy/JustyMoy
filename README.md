@@ -60,14 +60,15 @@
     <td width="50%" valign="top">
       <h3 align="center">Healthy Cheat Meal Recipes</h3>
         <br />
-        <a target="_blank" href="https://healthycheatmealgenerator.netlify.app/"> 
+        <a target="_blank" href="https://cheat-meals-blog-network.herokuapp.com/"> 
         </a>
  
           
-  <a href="https://cheatmeal-app.herokuapp.com/" target="_blank"> 
+  <a href="https://cheat-meals-blog-network.herokuapp.com/" target="_blank"> 
     
 
-![alt tag](https://user-images.githubusercontent.com/87396968/178862441-f70c6b5e-8ae5-4484-94ee-1faeb4014370.png)
+![alt tag](https://user-images.githubusercontent.com/87396968/194953910-6269d4a7-0f88-4b64-b2d9-e502d5b0de18.png)
+
 
   </a>         
   <p align="center">
