@@ -72,7 +72,7 @@
 
   </a>         
   <p align="center">
-  <a href="https://github.com/JustyMoy/HealthyCheatMealAPI" target="_blank">
+  <a href="https://github.com/JustyMoy/anabolicRecipeBlog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
