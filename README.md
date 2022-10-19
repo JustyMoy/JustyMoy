@@ -58,7 +58,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Healthy Cheat Meal Recipes</h3>
+      <h3 align="center">Anabolic Smorgasbord</h3>
         <br />
         <a target="_blank" href="https://cheat-meals-blog-network.herokuapp.com/"> 
         </a>
