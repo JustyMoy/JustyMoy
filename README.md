@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>Bootstrap5 & React</strong> - Platform to help keep track of tasks with reminders</p>
+        <p><strong>React & CSS5</strong> - Platform to help keep track of tasks with reminders</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Custom Polls Generator</h3>
