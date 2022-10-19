@@ -100,11 +100,11 @@
   </tr>
 </table>
 
-- 🔭 I’m currently working on [Healthy Cheat Meal Generator](https://healthycheatmealgenerator.netlify.app/)
+- 🔭 I’m currently working on [Anabolic smorgasbord](https://cheat-meals-blog-network.herokuapp.com/)
 
 - 🌱 I’m currently learning **Javascript, react, and nodejs**
 
-- 👨‍💻 All of my projects are available at [https://justinmoymke.netlify.app/](https://justinmoymke.netlify.app/)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://justinmoymke.netlify.app/)
 
 - 💬 Ask me about **food nutrition**
 
