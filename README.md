@@ -22,17 +22,17 @@
         </a>
  
           
-  <a href="https://mkecolor.netlify.app/#" target="_blank">
+  <a href="https://github.com/JustyMoy/CheckList" target="_blank">
     
    <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
 
   </a>         
   <p align="center">
-  <a href="https://github.com/JustyMoy/portfolioSalon" target="_blank">
+  <a href="https://github.com/JustyMoy/CheckList" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Platform to help book cilents for a hair salon!</p>
+        <p><strong>Bootstrap5 & React</strong> - Platform to help keep track of tasks with reminders</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Custom Polls Generator</h3>
@@ -41,17 +41,17 @@
         </a>
  
           
-  <a href="https://chefstatusrecipegenerator.netlify.app/" target="_blank">
+  <a href="https://github.com/JustyMoy/Polls_python" target="_blank">
     
 <img src="https://media.giphy.com/media/4teasaWqojvThCycpC/giphy.gif" />
 
   </a>         
   <p align="center">
-  <a href="https://github.com/JustyMoy/randomRecipeGenerator/tree/master" target="_blank">
+  <a href="https://github.com/JustyMoy/Polls_python" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Recipe generator that will give you a random recipe to cook from over 100 different ones.</p>
+        <p><strong>Bootstrap5, Django, & Python</strong> - Generate custom polls and accumlate some results</p>
     </td>
     
   </tr>
@@ -76,7 +76,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>Bootstrap, Javascript, & Node.js</strong> - A high protein and low fat cheat meal alternative to help with dieting!</p>
+        <p><strong>Bootstrap5, Javascript, MongoDB, Express.js  & Node.js</strong> - A high protein and low fat cheat meal alternative to help with dieting!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">JustinMoy.netlify</h3>
