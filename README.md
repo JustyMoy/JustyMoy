@@ -16,7 +16,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">MKE Color Salon</h3>
+      <h3 align="center">Reminding Checklist</h3>
         <br />
         <a target="_blank" href="https://mkecolor.netlify.app/#"> 
         </a>
@@ -24,7 +24,7 @@
           
   <a href="https://mkecolor.netlify.app/#" target="_blank">
     
-   ![alt tag](https://user-images.githubusercontent.com/87396968/178848926-4a9d8dc1-6fd3-49c4-a713-e256f0be1228.png)
+   <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
 
   </a>         
   <p align="center">
@@ -35,7 +35,7 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Platform to help book cilents for a hair salon!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Random Recipe Generator</h3>
+      <h3 align="center">Custom Polls Generator</h3>
         <br />
         <a target="_blank" href="https://chefstatusrecipegenerator.netlify.app/#"> 
         </a>
@@ -43,7 +43,7 @@
           
   <a href="https://chefstatusrecipegenerator.netlify.app/" target="_blank">
     
-![alt tag](https://user-images.githubusercontent.com/87396968/178861138-595ac0bc-a38f-4f2e-bde4-2c76278753ae.png)
+<img src="https://media.giphy.com/media/4teasaWqojvThCycpC/giphy.gif" />
 
   </a>         
   <p align="center">
