@@ -67,7 +67,7 @@
   <a href="https://cheat-meals-blog-network.herokuapp.com/" target="_blank"> 
     
 
-![alt tag](https://user-images.githubusercontent.com/87396968/194953910-6269d4a7-0f88-4b64-b2d9-e502d5b0de18.png)
+<img src="https://media.giphy.com/media/8kToMEoYx5hpX5lcY4/giphy.gif" />
 
 
   </a>         
@@ -87,7 +87,7 @@
           
   <a href="https://justinmoymke.netlify.app/" target="_blank">
     
-   ![alt tag](https://user-images.githubusercontent.com/87396968/178866034-41fdb9ec-6323-4f69-b937-8df0a81afca5.png)
+   <img src="https://media.giphy.com/media/uCoD3fryp5dnLEn9hT/giphy.gif" />
 
   </a>         
   <p align="center">
