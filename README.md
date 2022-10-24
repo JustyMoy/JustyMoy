@@ -87,7 +87,7 @@
           
   <a href="https://justinmoymke.netlify.app/" target="_blank">
     
-   <img src="https://media.giphy.com/media/uCoD3fryp5dnLEn9hT/giphy.gif" />
+   <img src="https://media.giphy.com/media/C9VmOnN8LVwNFqCDKU/giphy.gif" />
 
   </a>         
   <p align="center">
