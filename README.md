@@ -15,24 +15,26 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Reminding Checklist</h3>
+      <td width="50%" valign="top">
+      <h3 align="center">Anabolic Smorgasbord</h3>
         <br />
-        <a target="_blank" href="https://mkecolor.netlify.app/#"> 
+        <a target="_blank" href="https://cheat-meals-blog-network.herokuapp.com/"> 
         </a>
  
           
-  <a href="https://github.com/JustyMoy/CheckList" target="_blank">
+  <a href="https://cheat-meals-blog-network.herokuapp.com/" target="_blank"> 
     
-   <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
+
+<img src="https://media.giphy.com/media/8kToMEoYx5hpX5lcY4/giphy.gif" />
+
 
   </a>         
   <p align="center">
-  <a href="https://github.com/JustyMoy/CheckList" target="_blank">
+  <a href="https://github.com/JustyMoy/anabolicRecipeBlog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>React & CSS3</strong> - Platform to help keep track of tasks with reminders</p>
+        <p><strong>Bootstrap5, Javascript, MongoDB, Express.js  & Node.js</strong> - A high protein and low fat cheat meal alternative to help with dieting!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Custom Polls Generator</h3>
@@ -57,26 +59,23 @@
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Anabolic Smorgasbord</h3>
+  <td width="50%" valign="top">
+      <h3 align="center">Reminding Checklist</h3>
         <br />
-        <a target="_blank" href="https://cheat-meals-blog-network.herokuapp.com/"> 
+        <a target="_blank" href="https://mkecolor.netlify.app/#"> 
         </a>
- 
-          
-  <a href="https://cheat-meals-blog-network.herokuapp.com/" target="_blank"> 
+  
+  <a href="https://github.com/JustyMoy/CheckList" target="_blank">
     
-
-<img src="https://media.giphy.com/media/8kToMEoYx5hpX5lcY4/giphy.gif" />
-
+   <img src ="https://media.giphy.com/media/Vc6Pg0TjiUt1KC5tmY/giphy.gif" />
 
   </a>         
   <p align="center">
-  <a href="https://github.com/JustyMoy/anabolicRecipeBlog" target="_blank">
+  <a href="https://github.com/JustyMoy/CheckList" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> 
   </a> 
       </p>
-        <p><strong>Bootstrap5, Javascript, MongoDB, Express.js  & Node.js</strong> - A high protein and low fat cheat meal alternative to help with dieting!</p>
+        <p><strong>React & CSS3</strong> - Platform to help keep track of tasks with reminders</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">JustinMoy.netlify</h3>
@@ -84,7 +83,6 @@
         <a target="_blank" href="https://justinmoymke.netlify.app/"> 
         </a>
  
-          
   <a href="https://justinmoymke.netlify.app/" target="_blank">
     
    <img src="https://media.giphy.com/media/C9VmOnN8LVwNFqCDKU/giphy.gif" />
@@ -99,6 +97,7 @@
     </td>
   </tr>
 </table>
+
 
 - 🔭 I’m currently working on [Anabolic smorgasbord](https://cheat-meals-blog-network.herokuapp.com/)
 
