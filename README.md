@@ -99,7 +99,7 @@
 </table>
 
 
-- 🔭 I’m currently working on [Anabolic smorgasbord](https://cheat-meals-blog-network.herokuapp.com/)
+- 🔭 I’m currently working on [Anabolic smorgasbord](https://anabolic-smorgasbord.cyclic.app/)
 
 - 🌱 I’m currently learning **Javascript, react, and nodejs**
 
