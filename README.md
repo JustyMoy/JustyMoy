@@ -22,7 +22,7 @@
         </a>
  
           
-  <a href="https://anabolic-smorgasbord.cyclic.app/" target="_blank"> 
+  <a href="https://anabolicsmorgasbord.fly.dev/" target="_blank"> 
     
 
 <img src="https://media.giphy.com/media/8kToMEoYx5hpX5lcY4/giphy.gif" />
@@ -99,7 +99,7 @@
 </table>
 
 
-- 🔭 I’m currently working on [Anabolic smorgasbord](https://anabolic-smorgasbord.cyclic.app/)
+- 🔭 I’m currently working on [Anabolic smorgasbord](https://anabolicsmorgasbord.fly.dev/)
 
 - 🌱 I’m currently learning **Javascript, react, and nodejs**
 
