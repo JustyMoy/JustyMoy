@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://justinmoymke.netlify.app/)
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A software engineer @100Devs that builds websites and web applications.</h3>
+<h3 align="center">A software developer @100Devs that builds websites and web applications.</h3>
 
 <p align="left"> <a href="https://twitter.com/justymke" target="blank"><img src="https://img.shields.io/twitter/follow/justymke?logo=twitter&style=for-the-badge" alt="justymke" /></a> </p>
 <h3 align="left">Connect with me:</h3>
